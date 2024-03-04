@@ -1,4 +1,4 @@
-# 
+![logo](https://github.com/VashishattGupta-16/Vashishatt_Gupta/blob/main/Banner.png) 
     <h1 align="center">Hi 👋, I'm Vashishatt Gupta</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img   align ="right" alt="coding" width = "30%" src = "https://www.bing.com/th/id/OGC.5c8f08b5fe55e12baae6fc54e46c343a?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f330915%2fscreenshots%2f3587000%2f10_coding_dribbble.gif&ehk=C5UpGj9kjpdxyyrm3QNDIdPg%2fddDRSjOHGPoyJZ9G4M%3d"> 
